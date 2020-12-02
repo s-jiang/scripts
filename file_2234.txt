@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-"LITTLE NICKY" -- by Tim Herlihy, Adam Sandler & Steven Brill
+"LITTLE NICKY"
 
 	FADE IN:
 

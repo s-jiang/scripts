@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-The Princess Bride by William Goldman - 1987 Shooting Draft
+The Princess Bride
 
                     "The Princess Bride"
 
