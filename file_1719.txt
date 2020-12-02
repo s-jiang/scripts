@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-the Ghost and the Darkness - by William Goldman
+the Ghost and the Darkness
 
 "THE GHOST AND THE DARKNESS"
 

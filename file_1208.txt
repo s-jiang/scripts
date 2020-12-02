@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-"Lord of Illusions" -- by Clive Barker
+"Lord of Illusions"
 
 	TITLE SEQUENCE
 

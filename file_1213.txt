@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-"PET SEMATARY" by Stephen King
+"PET SEMATARY"
 
 			"PET SEMATARY"
 
