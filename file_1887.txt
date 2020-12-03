@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-"FREQUENCY" -- by Toby Emmerich
-
+"FREQUENCY"
             The Child is the Father of the Man.
 
                               - William Wordsworth

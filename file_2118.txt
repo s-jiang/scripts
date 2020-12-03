@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Traffic by Stephen Gaghan
-
+Traffic
                               "TRAFFIC"
 
                                   By

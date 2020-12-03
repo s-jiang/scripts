@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-DAYS OF HEAVEN by Terry Malick REVISED: 6/2/76
-
+DAYS OF HEAVEN
 DAYS OF HEAVEN"
 
 by Terry Malick

@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Solaris - by Steven Soderbergh -  October 4, 2001 draft
+Solaris
 
                             SOLARIS
 

@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-THE TIME MACHINE - by David Duncan
-
+THE TIME MACHINE
                               H. G. Wells'
 
                     T H E   T I M E   M A C H I N E

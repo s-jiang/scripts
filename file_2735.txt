@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Top Gun - by Chip Proser
+Top Gun
 
 	                        TOP GUN
 

@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Austin Powers: International Man of Mystery - by Mike Myers
+Austin Powers: International Man of Mystery
 
 		       AUSTIN POWERS: INTERNATIONAL MAN OF MYSTERY
 

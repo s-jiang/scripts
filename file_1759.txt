@@ -1,5 +1,4 @@
-"NURSE BETTY" -- by John C. Richards & James Flamberg
-
+"NURSE BETTY"
 <b><!--
 
 </b>if (window!= top)

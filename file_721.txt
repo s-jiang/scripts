@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-The Apartment by Billy Wilder and I.A.L. Diamond
-
+The Apartment
                      THE APARTMENT
 
                            by

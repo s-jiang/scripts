@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Five Easy Pieces - by Carole Eastman
+Five Easy Pieces
 
 		Five Easy Pieces
 

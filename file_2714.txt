@@ -8,7 +8,8 @@ top.location.href=location.href
 
 </b>
 
-"THE ANNIVERSARY PARTY" -- by Alan Cumming & Jennifer Jason Leigh
+"THE ANNIVERSARY PARTY"
+ -- by Alan Cumming & Jennifer Jason Leigh
 
 	FADE IN:
 

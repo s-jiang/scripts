@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Basic Instinct - by Joe Eszterhas
-
+Basic Instinct
                                   BASIC INSTINCT
 
                                         by

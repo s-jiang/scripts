@@ -8,8 +8,7 @@ top.location.href=location.href
 
 </b>
 
-Life as a House - By Mark Andrus
-
+Life as a House
 		LIFE AS A HOUSE
 
 		WRITTEN BY MARK ANDRUS
