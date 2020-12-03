@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-13 Days by David Self
+13 Days
 
 	13 Days
 

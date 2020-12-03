@@ -8,7 +8,7 @@ top.location.href=location.href
 
 </b>
 
-VIRTUOSITY by Eric Bernt 3rd Rewrite 8/24/94
+VIRTUOSITY
 
                                         VIRTUOSITY
 

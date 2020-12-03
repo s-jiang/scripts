@@ -1,17 +1,3 @@
-<script>
-
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
-ID4
-
 INDEPENDENCE DAY
 
 Dean Devlin & Roland Emmerich
